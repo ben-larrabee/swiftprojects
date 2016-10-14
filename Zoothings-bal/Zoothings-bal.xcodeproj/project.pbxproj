@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C7F3F2691DAEA5EB0026E42F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2681DAEA5EB0026E42F /* main.swift */; };
-		C7F3F2701DAEA6080026E42F /* io.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F26F1DAEA6080026E42F /* io.swift */; };
 		C7F3F2721DAEA62F0026E42F /* zoothing.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2711DAEA62F0026E42F /* zoothing.swift */; };
 		C7F3F2741DAEA7670026E42F /* interactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2731DAEA7670026E42F /* interactive.swift */; };
 		C7F3F2761DAEB07C0026E42F /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2751DAEB07C0026E42F /* Helper.swift */; };
@@ -18,6 +17,7 @@
 		C7F3F27E1DAFD6910026E42F /* employee class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F27D1DAFD6910026E42F /* employee class.swift */; };
 		C7F3F2801DAFD6B20026E42F /* customer class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F27F1DAFD6B20026E42F /* customer class.swift */; };
 		C7F3F2821DB0151A0026E42F /* zoo class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2811DB0151A0026E42F /* zoo class.swift */; };
+		C7F3F2F01DB15F5C0026E42F /* io.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2EF1DB15F5C0026E42F /* io.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,7 +35,6 @@
 /* Begin PBXFileReference section */
 		C7F3F2651DAEA5EB0026E42F /* Zoothings-bal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zoothings-bal"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F3F2681DAEA5EB0026E42F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		C7F3F26F1DAEA6080026E42F /* io.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = io.swift; path = "../../../library-app-bal/library-app/library-app/io.swift"; sourceTree = "<group>"; };
 		C7F3F2711DAEA62F0026E42F /* zoothing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = zoothing.swift; sourceTree = "<group>"; };
 		C7F3F2731DAEA7670026E42F /* interactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = interactive.swift; sourceTree = "<group>"; };
 		C7F3F2751DAEB07C0026E42F /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
@@ -45,6 +44,7 @@
 		C7F3F27D1DAFD6910026E42F /* employee class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "employee class.swift"; sourceTree = "<group>"; };
 		C7F3F27F1DAFD6B20026E42F /* customer class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "customer class.swift"; sourceTree = "<group>"; };
 		C7F3F2811DB0151A0026E42F /* zoo class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "zoo class.swift"; sourceTree = "<group>"; };
+		C7F3F2EF1DB15F5C0026E42F /* io.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = io.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +77,12 @@
 		C7F3F2671DAEA5EB0026E42F /* Zoothings-bal */ = {
 			isa = PBXGroup;
 			children = (
+				C7F3F2EF1DB15F5C0026E42F /* io.swift */,
 				C7F3F2711DAEA62F0026E42F /* zoothing.swift */,
 				C7F3F2791DAFD6440026E42F /* animal class.swift */,
 				C7F3F27B1DAFD66F0026E42F /* person class.swift */,
 				C7F3F27D1DAFD6910026E42F /* employee class.swift */,
 				C7F3F27F1DAFD6B20026E42F /* customer class.swift */,
-				C7F3F26F1DAEA6080026E42F /* io.swift */,
 				C7F3F2681DAEA5EB0026E42F /* main.swift */,
 				C7F3F2731DAEA7670026E42F /* interactive.swift */,
 				C7F3F2751DAEB07C0026E42F /* Helper.swift */,
@@ -157,7 +157,7 @@
 				C7F3F2821DB0151A0026E42F /* zoo class.swift in Sources */,
 				C7F3F2781DAEB67C0026E42F /* ShallWe.swift in Sources */,
 				C7F3F2741DAEA7670026E42F /* interactive.swift in Sources */,
-				C7F3F2701DAEA6080026E42F /* io.swift in Sources */,
+				C7F3F2F01DB15F5C0026E42F /* io.swift in Sources */,
 				C7F3F2801DAFD6B20026E42F /* customer class.swift in Sources */,
 				C7F3F27A1DAFD6440026E42F /* animal class.swift in Sources */,
 				C7F3F27E1DAFD6910026E42F /* employee class.swift in Sources */,
@@ -290,6 +290,7 @@
 				C7F3F26E1DAEA5EB0026E42F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

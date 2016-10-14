@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F6D8DEB5A041197368FA29D8D2CFE4067BECC0E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : 9223372036854775807,
     "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F" : 9223372036854775807,
-    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : 9223372036854775807
+    "4F6D8DEB5A041197368FA29D8D2CFE4067BECC0E" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7DB54D92-8F6A-4B76-8E6D-4E043896E684",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : "library-app-bal\/",
     "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F" : "zoo-project-bal\/",
-    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : "library-app-bal\/"
+    "4F6D8DEB5A041197368FA29D8D2CFE4067BECC0E" : "swiftprojects\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Zoothings-bal",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ben-larrabee\/library-app-bal.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ben-larrabee\/swiftprojects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F6D8DEB5A041197368FA29D8D2CFE4067BECC0E"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ben-larrabee\/zoo-project-bal.git",
