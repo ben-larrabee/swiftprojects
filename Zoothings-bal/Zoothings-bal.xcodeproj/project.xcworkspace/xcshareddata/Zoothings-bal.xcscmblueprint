@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F" : 9223372036854775807,
+    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7DB54D92-8F6A-4B76-8E6D-4E043896E684",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F" : "zoo-project-bal\/",
+    "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35" : "library-app-bal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Zoothings-bal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Zoothings-bal\/Zoothings-bal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ben-larrabee\/library-app-bal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CE4BCE8C9411D9D83216D5D48755FF9C253EE35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ben-larrabee\/zoo-project-bal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC4A010C31B7D2C0CB43F03DAEEED6A9DFA59D4F"
+    }
+  ]
+}

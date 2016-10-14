@@ -1,0 +1,297 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C7F3F2691DAEA5EB0026E42F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2681DAEA5EB0026E42F /* main.swift */; };
+		C7F3F2701DAEA6080026E42F /* io.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F26F1DAEA6080026E42F /* io.swift */; };
+		C7F3F2721DAEA62F0026E42F /* zoothing.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2711DAEA62F0026E42F /* zoothing.swift */; };
+		C7F3F2741DAEA7670026E42F /* interactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2731DAEA7670026E42F /* interactive.swift */; };
+		C7F3F2761DAEB07C0026E42F /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2751DAEB07C0026E42F /* Helper.swift */; };
+		C7F3F2781DAEB67C0026E42F /* ShallWe.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2771DAEB67C0026E42F /* ShallWe.swift */; };
+		C7F3F27A1DAFD6440026E42F /* animal class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2791DAFD6440026E42F /* animal class.swift */; };
+		C7F3F27C1DAFD66F0026E42F /* person class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F27B1DAFD66F0026E42F /* person class.swift */; };
+		C7F3F27E1DAFD6910026E42F /* employee class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F27D1DAFD6910026E42F /* employee class.swift */; };
+		C7F3F2801DAFD6B20026E42F /* customer class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F27F1DAFD6B20026E42F /* customer class.swift */; };
+		C7F3F2821DB0151A0026E42F /* zoo class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F3F2811DB0151A0026E42F /* zoo class.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C7F3F2631DAEA5EB0026E42F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C7F3F2651DAEA5EB0026E42F /* Zoothings-bal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zoothings-bal"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7F3F2681DAEA5EB0026E42F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C7F3F26F1DAEA6080026E42F /* io.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = io.swift; path = "../../../library-app-bal/library-app/library-app/io.swift"; sourceTree = "<group>"; };
+		C7F3F2711DAEA62F0026E42F /* zoothing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = zoothing.swift; sourceTree = "<group>"; };
+		C7F3F2731DAEA7670026E42F /* interactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = interactive.swift; sourceTree = "<group>"; };
+		C7F3F2751DAEB07C0026E42F /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		C7F3F2771DAEB67C0026E42F /* ShallWe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShallWe.swift; sourceTree = "<group>"; };
+		C7F3F2791DAFD6440026E42F /* animal class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "animal class.swift"; sourceTree = "<group>"; };
+		C7F3F27B1DAFD66F0026E42F /* person class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "person class.swift"; sourceTree = "<group>"; };
+		C7F3F27D1DAFD6910026E42F /* employee class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "employee class.swift"; sourceTree = "<group>"; };
+		C7F3F27F1DAFD6B20026E42F /* customer class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "customer class.swift"; sourceTree = "<group>"; };
+		C7F3F2811DB0151A0026E42F /* zoo class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "zoo class.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C7F3F2621DAEA5EB0026E42F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C7F3F25C1DAEA5EB0026E42F = {
+			isa = PBXGroup;
+			children = (
+				C7F3F2671DAEA5EB0026E42F /* Zoothings-bal */,
+				C7F3F2661DAEA5EB0026E42F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C7F3F2661DAEA5EB0026E42F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C7F3F2651DAEA5EB0026E42F /* Zoothings-bal */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C7F3F2671DAEA5EB0026E42F /* Zoothings-bal */ = {
+			isa = PBXGroup;
+			children = (
+				C7F3F2711DAEA62F0026E42F /* zoothing.swift */,
+				C7F3F2791DAFD6440026E42F /* animal class.swift */,
+				C7F3F27B1DAFD66F0026E42F /* person class.swift */,
+				C7F3F27D1DAFD6910026E42F /* employee class.swift */,
+				C7F3F27F1DAFD6B20026E42F /* customer class.swift */,
+				C7F3F26F1DAEA6080026E42F /* io.swift */,
+				C7F3F2681DAEA5EB0026E42F /* main.swift */,
+				C7F3F2731DAEA7670026E42F /* interactive.swift */,
+				C7F3F2751DAEB07C0026E42F /* Helper.swift */,
+				C7F3F2771DAEB67C0026E42F /* ShallWe.swift */,
+				C7F3F2811DB0151A0026E42F /* zoo class.swift */,
+			);
+			path = "Zoothings-bal";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C7F3F2641DAEA5EB0026E42F /* Zoothings-bal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C7F3F26C1DAEA5EB0026E42F /* Build configuration list for PBXNativeTarget "Zoothings-bal" */;
+			buildPhases = (
+				C7F3F2611DAEA5EB0026E42F /* Sources */,
+				C7F3F2621DAEA5EB0026E42F /* Frameworks */,
+				C7F3F2631DAEA5EB0026E42F /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Zoothings-bal";
+			productName = "Zoothings-bal";
+			productReference = C7F3F2651DAEA5EB0026E42F /* Zoothings-bal */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C7F3F25D1DAEA5EB0026E42F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Ben Larrabee";
+				TargetAttributes = {
+					C7F3F2641DAEA5EB0026E42F = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C7F3F2601DAEA5EB0026E42F /* Build configuration list for PBXProject "Zoothings-bal" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C7F3F25C1DAEA5EB0026E42F;
+			productRefGroup = C7F3F2661DAEA5EB0026E42F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C7F3F2641DAEA5EB0026E42F /* Zoothings-bal */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C7F3F2611DAEA5EB0026E42F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C7F3F2691DAEA5EB0026E42F /* main.swift in Sources */,
+				C7F3F2721DAEA62F0026E42F /* zoothing.swift in Sources */,
+				C7F3F27C1DAFD66F0026E42F /* person class.swift in Sources */,
+				C7F3F2761DAEB07C0026E42F /* Helper.swift in Sources */,
+				C7F3F2821DB0151A0026E42F /* zoo class.swift in Sources */,
+				C7F3F2781DAEB67C0026E42F /* ShallWe.swift in Sources */,
+				C7F3F2741DAEA7670026E42F /* interactive.swift in Sources */,
+				C7F3F2701DAEA6080026E42F /* io.swift in Sources */,
+				C7F3F2801DAFD6B20026E42F /* customer class.swift in Sources */,
+				C7F3F27A1DAFD6440026E42F /* animal class.swift in Sources */,
+				C7F3F27E1DAFD6910026E42F /* employee class.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C7F3F26A1DAEA5EB0026E42F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C7F3F26B1DAEA5EB0026E42F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C7F3F26D1DAEA5EB0026E42F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		C7F3F26E1DAEA5EB0026E42F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C7F3F2601DAEA5EB0026E42F /* Build configuration list for PBXProject "Zoothings-bal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7F3F26A1DAEA5EB0026E42F /* Debug */,
+				C7F3F26B1DAEA5EB0026E42F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C7F3F26C1DAEA5EB0026E42F /* Build configuration list for PBXNativeTarget "Zoothings-bal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7F3F26D1DAEA5EB0026E42F /* Debug */,
+				C7F3F26E1DAEA5EB0026E42F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C7F3F25D1DAEA5EB0026E42F /* Project object */;
+}
