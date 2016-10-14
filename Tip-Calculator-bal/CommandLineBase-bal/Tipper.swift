@@ -76,7 +76,7 @@ class Tipper {
     }
     var laydown: Double = (tipAmt * tipQuality)/Double(numOfParty)
     validAmt = false; validTip = false; validParty = false
-    laydown = laydown*100.rounded()/100.0
+    laydown = Double(Int(laydown*100.rounded()))/100.0
     if numOfParty == 1 {
       io.writeMessage("Your total after tip will be $\(laydown).  Thanks for using Tip Calculator.")
     } else {
